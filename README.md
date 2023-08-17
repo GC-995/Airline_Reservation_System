@@ -1,2 +1,2 @@
 # Airline_Reservation_System
-Program for creating a system for booking flights 
+C++ program for creating a system for booking flights 
